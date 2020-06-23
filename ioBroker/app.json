@@ -1,0 +1,10 @@
+{
+    "appid": "e3e34703718888700cefb3c28a0e52cb6a903ff0",
+    "name": "ioBroker",
+    "website": "www.iobroker.net",
+    "license": "MIT License",
+    "description": "obroker is an iot platform (Fog computing). The ability to manage your iot system as one intelligent, robust project. Unique graphics and beautiful interfaces for you.",
+    "enhanced": true,
+    "tile_background": "light",
+    "icon": "iobroker.jpeg"
+}
